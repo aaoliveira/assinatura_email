@@ -1,5 +1,4 @@
-# assinatura_email
-Gerador de Assinatura de E-mail
+## Gerador de Assinatura de E-mail
 
 Desenvolvido em PHP com o objetivo de padronizar o uso das Assinaturas de E-mail na empresa.
 
